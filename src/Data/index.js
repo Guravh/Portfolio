@@ -86,28 +86,28 @@ const CONTACTS = [
 ];
 const PROJECTS = [
 	{
-		title: "Portfolio Website",
+		title: "Portfolio Website Code",
 		desc: "A personal portfolio built with React and CSS, showcasing projects and skills with smooth scroll animations.",
-		tags: ["React", "CSS", "Figma"],
-		link: "#",
+		tags: ["React", "CSS", "Git"],
+		link: "https://github.com/Guravh/Portfolio",
 	},
 	{
 		title: "E-Commerce UI",
 		desc: "A fully responsive e-commerce frontend with product listings, cart functionality, and checkout flow.",
-		tags: ["HTML", "CSS", "JavaScript"],
-		link: "#",
+		tags: ["HTML", "CSS", "JavaScript", "Git"],
+		link: "https://hexashop-store.vercel.app/",
 	},
 	{
 		title: "Dashboard App",
 		desc: "An analytics dashboard with dynamic charts, dark mode support, and a clean component-based architecture.",
 		tags: ["React", "CSS Grid", "Git"],
-		link: "#",
+		link: "https://dashboard-app-eta-tawny.vercel.app/",
 	},
-	{
-		title: "Landing Page",
-		desc: "A modern SaaS landing page with animated hero section, feature highlights, and a contact form.",
-		tags: ["HTML", "CSS", "JavaScript"],
-		link: "#",
-	},
+	// {
+	// 	title: "Landing Page",
+	// 	desc: "A modern SaaS landing page with animated hero section, feature highlights, and a contact form.",
+	// 	tags: ["HTML", "CSS", "JavaScript"],
+	// 	link: "#",
+	// },
 ];
 export { NAV_LINKS, SKILLS_TICKER, EXPERIENCES, CONTACTS, PROJECTS };
