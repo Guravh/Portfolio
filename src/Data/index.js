@@ -101,16 +101,17 @@ const PROJECTS = [
 	},
 	{
 		title: "Dashboard App",
-		desc: "An analytics dashboard with dynamic charts, dark mode support, and a clean component-based architecture.",
-		tags: ["React", "CSS Grid", "Git"],
+		desc: "An analytics dashboard with dynamic charts, and a clean component-based architecture.",
+		tags: ["React", "CSS", "Git"],
 		link: "https://dashboard-app-eta-tawny.vercel.app/",
 		status: "Live",
 	},
-	// {
-	// 	title: "Landing Page",
-	// 	desc: "A modern SaaS landing page with animated hero section, feature highlights, and a contact form.",
-	// 	tags: ["HTML", "CSS", "JavaScript"],
-	// 	link: "#",
-	// },
+	{
+		title: "Music App",
+		desc: "A music streaming app with playlist management and a sleek UI, built using React , Tailwind CSS and Spotify API.",
+		tags: ["React", "Tailwind CSS", "Git"],
+		link: "#",
+		status: "In Progress",
+	},
 ];
 export { NAV_LINKS, SKILLS_TICKER, EXPERIENCES, CONTACTS, PROJECTS };
