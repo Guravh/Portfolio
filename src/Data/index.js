@@ -90,18 +90,21 @@ const PROJECTS = [
 		desc: "A personal portfolio built with React and CSS, showcasing projects and skills with smooth scroll animations.",
 		tags: ["React", "CSS", "Git"],
 		link: "https://github.com/Guravh/Portfolio",
+		status: "Live",
 	},
 	{
 		title: "E-Commerce UI",
 		desc: "A fully responsive e-commerce frontend with product listings, cart functionality, and checkout flow.",
 		tags: ["HTML", "CSS", "JavaScript", "Git"],
 		link: "https://hexashop-store.vercel.app/",
+		status: "Live",
 	},
 	{
 		title: "Dashboard App",
 		desc: "An analytics dashboard with dynamic charts, dark mode support, and a clean component-based architecture.",
 		tags: ["React", "CSS Grid", "Git"],
 		link: "https://dashboard-app-eta-tawny.vercel.app/",
+		status: "Live",
 	},
 	// {
 	// 	title: "Landing Page",

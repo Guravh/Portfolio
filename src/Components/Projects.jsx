@@ -14,7 +14,7 @@ const CARD_GLOWS = [
 	"rgba(6, 182, 212, 0.25)",
 ];
 
-const STATUSES = ["Live", "In Progress", "Completed", "Live"];
+// const STATUSES = ["Live", "In Progress", "Completed", "Live"];
 
 const Projects = () => {
 	const handleMouseMove = (e, card) => {
@@ -68,7 +68,7 @@ const Projects = () => {
 											background: CARD_GRADIENTS[i % CARD_GRADIENTS.length],
 										}}
 									/>
-									{STATUSES[i % STATUSES.length]}
+                  {item.status}
 								</span>
 								<span className="projects__arrow">↗</span>
 							</div>
