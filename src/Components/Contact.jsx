@@ -112,7 +112,7 @@ const Contact = () => {
 				</form>
 			</div>
 
-			<p className="contact__footer">©2024 | Dev Frontend Portfolio</p>
+			<p className="contact__footer">©2026 | Dev Frontend Portfolio</p>
 		</section>
 	);
 };
