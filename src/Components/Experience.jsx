@@ -34,7 +34,7 @@ const Experience = () => {
               <div className="experience__body">
                 <div className="experience__header">
                   <h3 className="experience__title">{item.title}</h3>
-                  <span className="experience__arrow">↗</span>
+                  {/* <span className="experience__arrow">↗</span> */}
                 </div>
                 <p className="experience__desc">{item.desc}</p>
               </div>
